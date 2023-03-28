@@ -1,1 +1,2 @@
-# DSA-codes
+# Data Structures Series
+Collection of Algorithms and Data Structures. 
